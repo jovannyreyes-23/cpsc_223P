@@ -11,7 +11,7 @@ age_int = current_year_int - birth_year_int
 if age_int % 2 == 0 and age_int < 50:
     print("This will be a great year")
 elif age_int % 2 != 0 and age_int < 50:
-    print("This year will be rough")
+    print("This year will be tough")
 elif age_int == 50:
     print("The future is unclear")
 else:

@@ -4,7 +4,7 @@
 # Assignment: Module 3 Assignment 1
 
 start_int = int(input("What is the first number? "))
-end_int = int(input("What is  the second number? "))
+end_int = int(input("What is the second number? "))
 
 num_list = list(range(start_int, end_int + 1))
 

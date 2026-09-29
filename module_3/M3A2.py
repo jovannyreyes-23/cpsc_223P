@@ -8,6 +8,6 @@ m_list = ["E.T. the Extra-Terrestrial", "Indiana Jones and the Last Crusade", "B
 user_movie_str = input("What is your favorite movie? ")
 
 if user_movie_str in m_list:
-    print("Good choice")
+    print("Great choice")
 else:
-    print("Bad choice")
+    print("Never heard of it")
