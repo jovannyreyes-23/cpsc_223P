@@ -11,7 +11,7 @@ for item in g_list:
 
 remove_str = input("Which one do you think should be removed? ")
 g_list.remove(remove_str.title())
-print("Here are the top Sega games: ")
+print("Here are the new top Sega games:")
 
 for item in g_list:
     print(item)
