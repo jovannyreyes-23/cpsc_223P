@@ -1,0 +1,6 @@
+Big Cities:
+Long Beach, 362000
+Los Angeles, 382000000
+San Diego, 1360000
+Irvine, 302000
+Detroit, 606000
